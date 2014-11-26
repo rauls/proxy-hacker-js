@@ -1,0 +1,11 @@
+{
+  "name": "proxy-hacker",
+  "description": "Proxy Hacker that uses default.pac to dynamically decide where to proxy",
+  "version": "1.0.0",
+
+  "homepage": "http://github.com/rauls/proxy-hacker-js",
+  "author": "Raul Sobon <raul.sobon@gmail.com>",
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
